@@ -10,6 +10,6 @@
 
 
 ### Links for dataset: 
-1. diabetes.csv - https://raw.githubusercontent.com/ChetanKnowIt/BDT_Notes/blob/main/Day19/diabetes.csv
-2. Social_Network_Ads.csv - https://raw.githubusercontent.com/ChetanKnowIt/BDT_Notes/blob/main/Day19/Social_Network_Ads.csv
+1. diabetes.csv - https://raw.githubusercontent.com/ChetanKnowIt/BDT_Notes/main/Day19/diabetes.csv
+2. Social_Network_Ads.csv - https://raw.githubusercontent.com/ChetanKnowIt/BDT_Notes/main/Day19/Social_Network_Ads.csv
 3. data_banknote_authentication.csv - https://raw.githubusercontent.com/ChetanKnowIt/BDT_Notes/main/Day19/data_banknote_authentication.csv
